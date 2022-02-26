@@ -8,6 +8,8 @@ sudo xattr -r -d com.apple.quarantine /usr/local/bin
 chromedriver
 ```
 
+Upgrade the serenityjs version
+```yarn upgrade --latest```
 
 references:
 ```
